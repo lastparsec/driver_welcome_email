@@ -25,7 +25,7 @@
   </ul>
 
 
-  If you need any help, check out our <a href="https://www.youtube.com/playlist?list=PLLUpmzMHjqTHKcm8WgShIeUdplKx9A1jN">YouTube</a> channel or FAQ page. Email us anytime at <a href="mailto:support@bean.ai">support@bean.ai</a>.
+  <p>If you need any help, check out our <a href="https://www.youtube.com/playlist?list=PLLUpmzMHjqTHKcm8WgShIeUdplKx9A1jN">YouTube</a> channel or FAQ page. Email us anytime at <a href="mailto:support@bean.ai">support@bean.ai</a>.
   </p>
   <br>
   <p>Thank you,</p>
