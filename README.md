@@ -15,7 +15,7 @@
 
   </p>
 
-  <p><strong>We leave all other routing software in the dust</strong></p>
+  <p><strong>We leave other routing software in the dust</strong></p>
   <ul>
     <li>Easy to use app for Android and iPhone</li>
     <li>Precise apartment directions, unit-level details</li>
