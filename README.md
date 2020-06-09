@@ -14,6 +14,8 @@
   <p>Congratulations! You made the team! You were signed up as a driver for _______. To get started download the app <a href="">https://www.beansroute.ai/link?inviteCode=xxxxxxxx-xxx</a>
 
   </p>
+  <button type="button" >Activate My Account
+  </button>
 
   <p><strong>We leave other routing software in the dust</strong></p>
   <ul>
