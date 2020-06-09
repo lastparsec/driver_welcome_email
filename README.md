@@ -14,15 +14,11 @@
   <p>Congratulations! You made the team! You were signed up as a driver for _______. To get started download the app <a href="">https://www.beansroute.ai/link?inviteCode=xxxxxxxx-xxx</a>
 
   </p>
+<button class="favorite styled"
+        type="button">
+    Add to favorites
+</button>
 
-<h2>CSS Buttons</h2>
-
-<button>Default Button</button>
-<a href="#" class="button">Link Button</a>
-<button class="button">Button</button>
-<input type="button" class="button" value="Input Button">
-
-</body>
   
 
   <p><strong>We leave other routing software in the dust</strong></p>
