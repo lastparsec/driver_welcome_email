@@ -14,9 +14,10 @@
   <p>Congratulations! <!--You made the team!--> You were signed up as a driver for _______.&nbsp;
     <!--To get started download the app
     <a href="">https://www.beansroute.ai/link?inviteCode=xxxxxxxx-xxx</a>-->
-
-<STYLE>A {text-decoration: none;} </STYLE> <button style="background-color:#0A2238"><a href="https://www.beansroute.ai/link.html#no-redirect"><b style="color:white">Get Started Now</b></a></button>
+    
 <!-- @jack need to replace the linke below-->
+<STYLE>A {text-decoration: none;} </STYLE> <button style="background-color:#0A2238"><a href="https://www.beansroute.ai/link.html#no-redirect"><b style="color:white">Get Started Now</b></a></button>
+
 <!--<div class="mybutton">
   <a href="https://www.beansroute.ai/link.html#no-redirect">
   <button style="width:160;height:24; background-color:#EE4266"><b>Get Started Now</b>
