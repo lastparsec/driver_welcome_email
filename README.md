@@ -11,7 +11,7 @@
   <img src="https://www.beansroute.ai/assets/logo.png" width="75" height="75" border="0" alt="Beans Route icon">
   <h3>Start Deliveries with Beans Route!</h3>
   <br>
-  <p>Congratulations! <!--You made the team!--> You were signed up as a driver for _______.&nbsp
+  <p>Congratulations! <!--You made the team!--> You were signed up as a driver for _______.&nbsp;
     <!--To get started download the app
     <a href="">https://www.beansroute.ai/link?inviteCode=xxxxxxxx-xxx</a>-->
 
